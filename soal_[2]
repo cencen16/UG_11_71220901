@@ -1,0 +1,9 @@
+c = input("Masukkan kata :")
+def funPalindrome():
+    if c == 'katak':
+        print("yes")
+    else :
+        print("error")
+    print ("jika di balik:",c)
+
+funPalindrome()
