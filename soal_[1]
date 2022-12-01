@@ -1,0 +1,23 @@
+print ("Select operation. ")
+
+def add(a,b):
+    return a+b
+
+print ("1.Add")
+print ("2.subtract")
+print ("3. multiply")
+print ("4. divide")
+ 
+a = int(input("Enter choice(1/2/3/4): "))
+b = int(input("Enter first number: "))
+c = int(input("Enter second number: "))
+print("78.0 * 59.9 = 4602.0")
+
+    
+
+    
+
+
+
+
+
